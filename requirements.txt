@@ -62,7 +62,7 @@ pycparser==2.18
 pycups==1.9.73
 pycurl==7.43.0
 PyDispatcher==2.0.5
-Pygments==2.2.0
+Pygments==2.7.4
 pygobject==3.20.0
 PyICU==1.9.2
 pylint==1.8.4
