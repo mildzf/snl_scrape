@@ -83,7 +83,7 @@ six==1.10.0
 SQLAlchemy==1.2.7
 tox==3.0.0
 traitlets==4.3.2
-Twisted==18.4.0
+Twisted==22.2.0
 ubuntu-drivers-common==0.0.0
 ufw==0.35
 urllib3==1.22
