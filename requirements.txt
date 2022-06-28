@@ -1,6 +1,6 @@
 apt-clone==0.2.1
 apt-xapian-index==0.47
-arrow==0.12.1
+arrow==0.15.1
 asn1crypto==0.24.0
 astroid==1.6.3
 attrs==17.4.0
