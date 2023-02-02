@@ -24,7 +24,7 @@ defer==1.0.6
 future==0.16.0
 hashids==1.2.0
 html5lib==0.999
-httpie==0.9.9
+httpie==3.1.0
 hyperlink==18.0.0
 idna==2.6
 incremental==17.5.0
